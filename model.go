@@ -6,9 +6,9 @@ type Usuario struct {
 	Peso   float64 `json:"peso"`
 }
 
+// Estructura correcta para tu JSON de ejercicios
 type Ejercicio struct {
-	Nombre       string `json:"nombre"`
-	Categoria    string `json:"categoria"`
-	Repeticiones int    `json:"repeticiones"`
-	Series       int    `json:"series"`
+	Dia    string   `json:"dia"`
+	Titulo string   `json:"titulo"`
+	Rutina []string `json:"rutina"`
 }
