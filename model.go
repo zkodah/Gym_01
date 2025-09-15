@@ -11,4 +11,6 @@ type Ejercicio struct {
 	Dia    string   `json:"dia"`
 	Titulo string   `json:"titulo"`
 	Rutina []string `json:"rutina"`
+	Video  string   `json:"video,omitempty"`
+	Image  string   `json:"image,omitempty"`
 }

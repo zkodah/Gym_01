@@ -18,7 +18,7 @@ func habilitarCORS(next http.HandlerFunc) http.HandlerFunc {
 func registrarRutas() {
 	// Ruta raíz
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		w.Write([]byte("✅ API de AppGym corriendo"))
+		w.Write([]byte(" API de AppGym corriendo"))
 	})
 
 	// Usuario
