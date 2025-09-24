@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Corriendo en http://localhost:8080")
+	fmt.Println(" Servidor corriendo en http://localhost:8080")
 
 	registrarRutas()
 
