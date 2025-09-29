@@ -1,9 +1,11 @@
 package main
 
 type Usuario struct {
-	Edad   int     `json:"edad"`
-	Altura float64 `json:"altura"`
-	Peso   float64 `json:"peso"`
+	Alias    string  `json:"alias"`
+	Edad     int     `json:"edad"`
+	Altura   float64 `json:"altura"`
+	Peso     float64 `json:"peso"`
+	Objetivo string  `json:"objetivo"`
 }
 
 // Estructura correcta para tu JSON de ejercicios

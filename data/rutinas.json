@@ -1,0 +1,269 @@
+{
+  "Hipertrofia": {
+    "18-30": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio", "rutina": ["Sentadillas: 4×10", "Prensa de pierna: 3×12", "Elevaciones de talón: 3×20", "Cardio ligero: 10 min", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo con barra: 4×8", "Jalón al pecho: 3×12", "Peso muerto rumano: 3×10", "Plancha: 3×30 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio + Movilidad", "rutina": ["Caminadora: 25 min", "Movilidad articular: 10 min", "Yoga ligero"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press banca: 4×8", "Aperturas mancuernas: 3×12", "Press militar: 3×10", "Cardio ligero: 10 min", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 4×12", "Tríceps polea: 4×12", "Plancha lateral: 3×30 seg", "Crunch abdominal: 3×20", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["5 min calentamiento", "Correr 1 min rápido + 2 min lento (×6)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 30 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Piernas + Core", "rutina": ["Sentadillas en máquina: 3×12", "Prensa inclinada: 3×10", "Abdominales: 3×15", "Cardio suave 10 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Brazos", "rutina": ["Jalón al pecho: 3×12", "Remo bajo: 3×10", "Curl bíceps: 3×12"] },
+        { "dia": "Miércoles", "titulo": "Cardio", "rutina": ["Caminadora 20 min", "Bici 10 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press máquina: 3×10", "Elevaciones laterales: 3×12"] },
+        { "dia": "Viernes", "titulo": "Core", "rutina": ["Plancha: 3×20 seg", "Crunch: 3×15"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Caminadora 1 min rápido + 2 min lento ×5"] },
+        { "dia": "Domingo", "titulo": "Descanso", "rutina": ["Caminar suave 20 min"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio ligero", "rutina": ["Sentadillas asistidas: 3×12", "Extensión de pierna: 3×10", "Caminadora 10 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Core básico", "rutina": ["Jalón al pecho: 3×10", "Remo sentado: 3×10", "Plancha: 3×15 seg"] },
+        { "dia": "Miércoles", "titulo": "Cardio suave", "rutina": ["Bici estática 15 min", "Caminadora 10 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros básico", "rutina": ["Press máquina: 3×8", "Elevaciones laterales: 3×10"] },
+        { "dia": "Viernes", "titulo": "Core ligero", "rutina": ["Crunch: 2×12", "Elevación de piernas: 2×10"] },
+        { "dia": "Sábado", "titulo": "HIIT adaptado", "rutina": ["30 seg rápido + 2 min lento ×4"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 20 min"] }
+      ]
+    },
+    "31-45": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio", "rutina": ["Sentadillas: 4×8", "Prensa de pierna: 3×10", "Elevaciones de talón: 3×15", "Cardio ligero: 15 min", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo con barra: 4×10", "Jalón al pecho: 3×10", "Peso muerto rumano: 3×8", "Plancha: 3×20 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio + Movilidad", "rutina": ["Caminadora: 20 min", "Movilidad articular: 15 min", "Yoga"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press banca: 4×10", "Aperturas mancuernas: 3×10", "Press militar: 3×8", "Cardio ligero: 15 min", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 4×10", "Tríceps polea: 4×10", "Plancha lateral: 3×20 seg", "Crunch abdominal: 3×15", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["5 min calentamiento", "Correr 1 min rápido + 2 min lento (×5)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 25 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Piernas + Core", "rutina": ["Sentadillas en máquina: 3×10", "Prensa inclinada: 3×8", "Abdominales: 3×12", "Cardio suave 15 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Brazos", "rutina": ["Jalón al pecho: 3×10", "Remo bajo: 3×8", "Curl bíceps: 3×10"] },
+        { "dia": "Miércoles", "titulo": "Cardio", "rutina": ["Caminadora 15 min", "Bici 15 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press máquina: 3×8", "Elevaciones laterales: 3×10"] },
+        { "dia": "Viernes", "titulo": "Core", "rutina": ["Plancha: 3×15 seg", "Crunch: 3×12"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Caminadora 1 min rápido + 2 min lento ×4"] },
+        { "dia": "Domingo", "titulo": "Descanso", "rutina": ["Caminar suave 15 min"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio ligero", "rutina": ["Sentadillas asistidas: 3×10", "Extensión de pierna: 3×8", "Caminadora 15 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Core básico", "rutina": ["Jalón al pecho: 3×8", "Remo sentado: 3×8", "Plancha: 3×10 seg"] },
+        { "dia": "Miércoles", "titulo": "Cardio suave", "rutina": ["Bici estática 10 min", "Caminadora 15 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros básico", "rutina": ["Press máquina: 3×6", "Elevaciones laterales: 3×8"] },
+        { "dia": "Viernes", "titulo": "Core ligero", "rutina": ["Crunch: 2×10", "Elevación de piernas: 2×8"] },
+        { "dia": "Sábado", "titulo": "HIIT adaptado", "rutina": ["30 seg rápido + 2 min lento ×3"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 15 min"] }
+      ]
+    },
+    "46-60": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio", "rutina": ["Sentadillas: 3×8", "Prensa de pierna: 3×10", "Elevaciones de talón: 3×12", "Cardio ligero: 10 min", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo con barra: 3×8", "Jalón al pecho: 3×10", "Peso muerto rumano: 3×6", "Plancha: 3×15 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio + Movilidad", "rutina": ["Caminadora: 15 min", "Movilidad articular: 10 min", "Yoga"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press banca: 3×8", "Aperturas mancuernas: 3×10", "Press militar: 3×6", "Cardio ligero: 10 min", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 3×8", "Tríceps polea: 3×8", "Plancha lateral: 3×15 seg", "Crunch abdominal: 3×10", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["5 min calentamiento", "Correr 1 min rápido + 2 min lento (×4)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 20 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Piernas + Core", "rutina": ["Sentadillas en máquina: 3×8", "Prensa inclinada: 3×6", "Abdominales: 3×10", "Cardio suave 10 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Brazos", "rutina": ["Jalón al pecho: 3×8", "Remo bajo: 3×6", "Curl bíceps: 3×8"] },
+        { "dia": "Miércoles", "titulo": "Cardio", "rutina": ["Caminadora 10 min", "Bici 10 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press máquina: 3×6", "Elevaciones laterales: 3×8"] },
+        { "dia": "Viernes", "titulo": "Core", "rutina": ["Plancha: 3×10 seg", "Crunch: 3×8"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Caminadora 1 min rápido + 2 min lento ×3"] },
+        { "dia": "Domingo", "titulo": "Descanso", "rutina": ["Caminar suave 10 min"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio ligero", "rutina": ["Sentadillas asistidas: 3×6", "Extensión de pierna: 3×6", "Caminadora 10 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Core básico", "rutina": ["Jalón al pecho: 3×6", "Remo sentado: 3×6", "Plancha: 3×8 seg"] },
+        { "dia": "Miércoles", "titulo": "Cardio suave", "rutina": ["Bici estática 10 min", "Caminadora 10 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros básico", "rutina": ["Press máquina: 3×4", "Elevaciones laterales: 3×6"] },
+        { "dia": "Viernes", "titulo": "Core ligero", "rutina": ["Crunch: 2×6", "Elevación de piernas: 2×4"] },
+        { "dia": "Sábado", "titulo": "HIIT adaptado", "rutina": ["30 seg rápido + 2 min lento ×2"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 10 min"] }
+      ]
+    }
+  },
+  "Resistencia": {
+    "18-30": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Cardio + Piernas", "rutina": ["Caminadora: 20 min", "Sentadillas: 3×15", "Zancadas: 3×12", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo en máquina: 3×12", "Jalón al pecho: 3×15", "Plancha: 3×40 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Caminadora: 30 min a ritmo constante", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press banca: 3×12", "Press militar: 3×10", "Elevaciones laterales: 3×15", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 3×15", "Tríceps polea: 3×15", "Crunch abdominal: 3×20", "Plancha lateral: 3×30 seg"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Correr 1 min rápido + 2 min lento (×8)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 30 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Cardio + Piernas", "rutina": ["Caminadora: 15 min", "Prensa inclinada: 3×12", "Zancadas: 3×10", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo bajo: 3×10", "Jalón al pecho: 3×12", "Plancha: 3×30 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 25 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press máquina: 3×10", "Press militar: 3×8", "Elevaciones laterales: 3×12", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 3×12", "Tríceps polea: 3×12", "Crunch abdominal: 3×15", "Plancha lateral: 3×20 seg"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Correr 1 min rápido + 2 min lento (×6)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 25 min", "Estiramientos en casa"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Cardio + Piernas", "rutina": ["Caminadora: 10 min", "Sentadillas asistidas: 3×10", "Extensión de pierna: 3×8", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo sentado: 3×8", "Jalón al pecho: 3×10", "Plancha: 3×20 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 20 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press máquina: 3×8", "Press militar: 3×6", "Elevaciones laterales: 3×10", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 3×10", "Tríceps polea: 3×10", "Crunch abdominal: 3×12", "Plancha lateral: 3×15 seg"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Correr 1 min rápido + 2 min lento (×4)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 20 min", "Estiramientos en casa"] }
+      ]
+    },
+    "31-45": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Cardio + Piernas", "rutina": ["Caminadora: 20 min", "Sentadillas: 3×12", "Zancadas: 3×10", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo en máquina: 3×10", "Jalón al pecho: 3×12", "Plancha: 3×30 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Caminadora: 25 min a ritmo constante", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press banca: 3×10", "Press militar: 3×8", "Elevaciones laterales: 3×12", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 3×12", "Tríceps polea: 3×12", "Crunch abdominal: 3×15", "Plancha lateral: 3×20 seg", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Correr 1 min rápido + 2 min lento (×6)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 25 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Cardio + Piernas", "rutina": ["Caminadora: 15 min", "Prensa inclinada: 3×10", "Zancadas: 3×8", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo bajo: 3×8", "Jalón al pecho: 3×10", "Plancha: 3×20 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 20 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press máquina: 3×8", "Press militar: 3×6", "Elevaciones laterales: 3×10", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 3×10", "Tríceps polea: 3×10", "Crunch abdominal: 3×12", "Plancha lateral: 3×15 seg"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Caminadora 1 min rápido + 2 min lento ×4"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 20 min", "Estiramientos en casa"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Cardio + Piernas", "rutina": ["Caminadora: 10 min", "Sentadillas asistidas: 3×8", "Extensión de pierna: 3×6", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core básico", "rutina": ["Jalón al pecho: 3×6", "Remo sentado: 3×6", "Plancha: 3×8 seg"] },
+        { "dia": "Miércoles", "titulo": "Cardio suave", "rutina": ["Bici estática 10 min", "Caminadora 10 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros básico", "rutina": ["Press máquina: 3×4", "Elevaciones laterales: 3×6"] },
+        { "dia": "Viernes", "titulo": "Core ligero", "rutina": ["Crunch: 2×10", "Elevación de piernas: 2×8"] },
+        { "dia": "Sábado", "titulo": "HIIT adaptado", "rutina": ["30 seg rápido + 2 min lento ×2"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 10 min"] }
+      ]
+    },
+    "46-60": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio", "rutina": ["Sentadillas: 3×8", "Prensa de pierna: 3×10", "Elevaciones de talón: 3×12", "Cardio ligero: 10 min", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Espalda + Core", "rutina": ["Remo con barra: 3×8", "Jalón al pecho: 3×10", "Peso muerto rumano: 3×6", "Plancha: 3×15 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio + Movilidad", "rutina": ["Caminadora: 15 min", "Movilidad articular: 10 min", "Yoga"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press banca: 3×8", "Aperturas mancuernas: 3×10", "Press militar: 3×6", "Cardio ligero: 10 min", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Brazos + Core", "rutina": ["Curl bíceps: 3×8", "Tríceps polea: 3×8", "Plancha lateral: 3×15 seg", "Crunch abdominal: 3×10", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["5 min calentamiento", "Correr 1 min rápido + 2 min lento (×4)", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 20 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Piernas + Core", "rutina": ["Sentadillas en máquina: 3×8", "Prensa inclinada: 3×6", "Abdominales: 3×10", "Cardio suave 10 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Brazos", "rutina": ["Jalón al pecho: 3×8", "Remo bajo: 3×6", "Curl bíceps: 3×8"] },
+        { "dia": "Miércoles", "titulo": "Cardio", "rutina": ["Caminadora 10 min", "Bici 10 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros", "rutina": ["Press máquina: 3×6", "Elevaciones laterales: 3×8"] },
+        { "dia": "Viernes", "titulo": "Core", "rutina": ["Plancha: 3×10 seg", "Crunch: 3×8"] },
+        { "dia": "Sábado", "titulo": "HIIT", "rutina": ["Caminadora 1 min rápido + 2 min lento ×3"] },
+        { "dia": "Domingo", "titulo": "Descanso", "rutina": ["Caminar suave 10 min"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Piernas + Cardio ligero", "rutina": ["Sentadillas asistidas: 3×6", "Extensión de pierna: 3×6", "Caminadora 10 min"] },
+        { "dia": "Martes", "titulo": "Espalda + Core básico", "rutina": ["Jalón al pecho: 3×6", "Remo sentado: 3×6", "Plancha: 3×8 seg"] },
+        { "dia": "Miércoles", "titulo": "Cardio suave", "rutina": ["Bici estática 10 min", "Caminadora 10 min"] },
+        { "dia": "Jueves", "titulo": "Pecho + Hombros básico", "rutina": ["Press máquina: 3×4", "Elevaciones laterales: 3×6"] },
+        { "dia": "Viernes", "titulo": "Core ligero", "rutina": ["Crunch: 2×10", "Elevación de piernas: 2×8"] },
+        { "dia": "Sábado", "titulo": "HIIT adaptado", "rutina": ["30 seg rápido + 2 min lento ×2"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar 10 min"] }
+      ]
+    }
+  },
+  "Salud": {
+    "18-30": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 15 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas: 3×10", "Press de pecho: 3×8", "Plancha: 3×20 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Caminadora: 20 min a ritmo constante", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas: 3×10", "Press militar: 3×8", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 3×15 seg", "Crunch abdominal: 3×12", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 15 min", "Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 20 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas asistidas: 3×8", "Press de pecho en máquina: 3×6", "Plancha: 3×15 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 15 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas asistidas: 3×8", "Press militar en máquina: 3×6", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 3×10 seg", "Crunch abdominal: 3×10", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 10 min", "Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 15 min", "Estiramientos en casa"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 5 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas asistidas: 2×8", "Press de pecho en máquina: 2×6", "Plancha: 2×10 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas asistidas: 2×8", "Press militar en máquina: 2×6", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 2×10 seg", "Crunch abdominal: 2×8", "Caminadora: 5 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 5 min", "Bici estática: 5 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 10 min", "Estiramientos en casa"] }
+      ]
+    },
+    "31-45": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 15 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas: 3×10", "Press de pecho: 3×8", "Plancha: 3×20 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Caminadora: 20 min a ritmo constante", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas: 3×10", "Press militar: 3×8", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 3×15 seg", "Crunch abdominal: 3×12", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 15 min", "Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 20 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas asistidas: 3×8", "Press de pecho en máquina: 3×6", "Plancha: 3×15 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 15 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas asistidas: 3×8", "Press militar en máquina: 3×6", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 3×10 seg", "Crunch abdominal: 3×10", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 10 min", "Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 15 min", "Estiramientos en casa"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 5 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas asistidas: 2×8", "Press de pecho en máquina: 2×6", "Plancha: 2×10 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas asistidas: 2×8", "Press militar en máquina: 2×6", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 2×10 seg", "Crunch abdominal: 2×8", "Caminadora: 5 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 5 min", "Bici estática: 5 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 10 min", "Estiramientos en casa"] }
+      ]
+    },
+    "46-60": {
+      "60-75": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 15 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas: 3×10", "Press de pecho: 3×8", "Plancha: 3×20 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Caminadora: 20 min a ritmo constante", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas: 3×10", "Press militar: 3×8", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 3×15 seg", "Crunch abdominal: 3×12", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 15 min", "Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 20 min", "Estiramientos en casa"] }
+      ],
+      "76-90": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas asistidas: 3×8", "Press de pecho en máquina: 3×6", "Plancha: 3×15 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 15 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas asistidas: 3×8", "Press militar en máquina: 3×6", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 3×10 seg", "Crunch abdominal: 3×10", "Caminadora: 10 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 10 min", "Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 15 min", "Estiramientos en casa"] }
+      ],
+      "91+": [
+        { "dia": "Lunes", "titulo": "Movilidad + Cardio", "rutina": ["Movilidad articular: 10 min", "Caminadora: 5 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Martes", "titulo": "Fuerza básica", "rutina": ["Sentadillas asistidas: 2×8", "Press de pecho en máquina: 2×6", "Plancha: 2×10 seg", "Estiramientos"] },
+        { "dia": "Miércoles", "titulo": "Cardio continuo", "rutina": ["Bici estática: 10 min", "Estiramientos"] },
+        { "dia": "Jueves", "titulo": "Movilidad + Fuerza", "rutina": ["Movilidad articular: 10 min", "Zancadas asistidas: 2×8", "Press militar en máquina: 2×6", "Estiramientos"] },
+        { "dia": "Viernes", "titulo": "Core + Cardio", "rutina": ["Plancha lateral: 2×10 seg", "Crunch abdominal: 2×8", "Caminadora: 5 min a ritmo suave", "Estiramientos"] },
+        { "dia": "Sábado", "titulo": "Cardio ligero", "rutina": ["Caminadora: 5 min", "Bici estática: 5 min", "Estiramientos"] },
+        { "dia": "Domingo", "titulo": "Descanso activo", "rutina": ["Caminar al aire libre: 10 min", "Estiramientos en casa"] }
+      ]
+    }
+  }
+}
